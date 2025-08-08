@@ -11,7 +11,7 @@
    - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
    - Lembre-se: o repositório deve ser público.
 
-3. **Colaboração:**
+3. **Colaboração: OK✅**
    - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
    - Ambos devem fazer um clone do repositório em suas máquinas locais.
    - Realizem alterações, Commits, abra issues e pull requests.
@@ -21,6 +21,6 @@
    - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
 **EXTRAS:**
-- Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
+- Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒. OK✅
 
-- Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉.
+- Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉. OK✅
